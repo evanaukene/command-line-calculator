@@ -63,7 +63,7 @@ def start_calendar():
     elif user_choice == "X":
       start = False
     else:
-      print "Invalid command entered"
+      print "Invalid command entered, You cannot proceed further"
       start = False
                                    
 start_calendar()
