@@ -3,7 +3,7 @@
 
 from time import sleep, strftime
 
-USER_FIRST_NAME = "Daniel"
+USER_FIRST_NAME = "Daniel-Ita"
 
 calendar = {}
 
